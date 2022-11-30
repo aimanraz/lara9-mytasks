@@ -14,3 +14,7 @@
 Build a simple CRUD application with Laravel 9 with MySQL database. CRUD is stand for Create, Read, Update and Delete. It’s a core and important feature on a web app. More information about [project, https://irekasoft.com/blog/build-laravel-crud-web-app].
 
 ## Preview
+
+![fronpage](https://github.com/aimanraz/lara9-mytasks/blob/main/public/img/front.PNG)
+
+![Task page](https://github.com/aimanraz/lara9-mytasks/blob/main/public/img/tasks%20page.PNG)
